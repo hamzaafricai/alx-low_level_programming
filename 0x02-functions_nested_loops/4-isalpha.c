@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <ctype.h>
 /**
  * _isalpha - checks if character is a letter both lowercase or uppercase
  * @c: takes input from other functions
